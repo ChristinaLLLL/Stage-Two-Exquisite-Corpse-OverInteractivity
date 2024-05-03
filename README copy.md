@@ -36,11 +36,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 *When i thought about time i thought of old film reels showing a galloping horse in motion, and as well as seeing the passage of time through destruction and degradation so i decided to combine the two. i kind of went for a 'crazy doomsday timer' aesthetic, and allowed the viewer to 'begin time' through their own interaction with the program. I used a combination of fund images from google for the horses, and photos of photos in a magazine i found on my computer of a collapsing building, and then set up a seconds counter for the doomsday vibe. i was aiming for the feeling of running through time lightheartedly despite the decay of the world as time passes on. *
 
 ### 🟨 Stage 2
-- Name/Alias:
+- Name/Alias: Christina 
 - Github account:
 - Published webpage for stage 2:
 
-*... comments to be added here*
+*Hearing Interactivity, I'm reminded of all the images and information shown to me throughout my day.  A lot of the information I don't want to see, but it is hard not to be forced to see images and ads everywhere.  I thought of the OVERACTIVITY of all the images on random.  We are overloaded with ideas, images, and information every few seconds in life.*  
 
 ### 🟩 Stage 3
 - Name/Alias:
