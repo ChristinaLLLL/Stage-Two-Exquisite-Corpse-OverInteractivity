@@ -38,7 +38,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟨 Stage 2
 - Name/Alias: Christina 
 - Github account:https://github.com/ChristinaLLLL
-- Published webpage for stage 2:
+- Published webpage for stage 2:https://github.com/ChristinaLLLL/Stage-Two-Exquisite-Corpse-OverInteractivity
 
 *Hearing Interactivity, I'm reminded of all the images and information shown to me throughout my day.  A lot of the information I don't want to see, but it is hard not to be forced to see images and ads everywhere.  I thought of the OVERACTIVITY of all the images on random.  We are overloaded with ideas, images, and information every few seconds in life.*  
 
